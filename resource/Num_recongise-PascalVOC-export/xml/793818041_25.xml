@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>793818041_25.jpg</filename>
+    <path>Num_recongise-PascalVOC-export/Annotations/793818041_25.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>224</width>
+        <height>224</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>0</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>77.53599609375</xmin>
+        <ymin>97.28</ymin>
+        <xmax>134.3680078125</xmax>
+        <ymax>146.68800781250002</ymax>
+    </bndbox>
+</object>
+</annotation>
